@@ -20,12 +20,16 @@
 
 Цікаві відкриття з Project Euler
 - https://github.com/dinara070/ProjectEuler-480-Mastery/blob/main/Cikavi-Vidkrittya-z-Project-Euler.pdf
+
 Математичні факти дня з Projecr Euler
 - https://github.com/dinara070/ProjectEuler-480-Mastery/blob/main/Matematichni-fakti-dnya-z-Project-Euler.pdf
+
 Розв'язуємо Projecr Euler: Покроковий гайд
 - https://github.com/dinara070/ProjectEuler-480-Mastery/blob/main/Rozvyazuyemo-Project-Euler-Pokrokovij-Gajd.pdf
+
 ✅ Інтерактивна вікторина
 Створено тестування для перевірки знань про задачі ФЕ.
+- https://wordwall.net/uk/resource/95164791
 
 ---
 
