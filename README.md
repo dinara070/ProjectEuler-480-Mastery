@@ -18,13 +18,13 @@
 
 ✅ 3 Презентації (у форматі PDF):
 
-Цікаві відкриття з Project Euler
+1. Цікаві відкриття з Project Euler
 - https://github.com/dinara070/ProjectEuler-480-Mastery/blob/main/Cikavi-Vidkrittya-z-Project-Euler.pdf
 
-Математичні факти дня з Projecr Euler
+2. Математичні факти дня з Projecr Euler
 - https://github.com/dinara070/ProjectEuler-480-Mastery/blob/main/Matematichni-fakti-dnya-z-Project-Euler.pdf
 
-Розв'язуємо Projecr Euler: Покроковий гайд
+3. Розв'язуємо Projecr Euler: Покроковий гайд
 - https://github.com/dinara070/ProjectEuler-480-Mastery/blob/main/Rozvyazuyemo-Project-Euler-Pokrokovij-Gajd.pdf
 
 ✅ Інтерактивна вікторина
@@ -52,6 +52,11 @@
   *(на основі наукової роботи)*  
 ## 🧠 Онлайн-вікторина про Project Euler
 - https://wordwall.net/uk/resource/95164791
+
+---
+
+## Висновок
+Цей проект створено з метою дослідити математичні задачі Project Euler та продемонструвати системний підхід до розв'язання складних задач.
 
 ---
 
