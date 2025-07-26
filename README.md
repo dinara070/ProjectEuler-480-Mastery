@@ -25,10 +25,10 @@
 2. Магія Реверс-Навчання
 - https://github.com/dinara070/ProjectEuler-480-Mastery/blob/main/Magiya-Revers-Navchannya-Rozshir-Svij-Svit-Znan.pdf
 
-3. Математичні Виклики Project Euler: Розвиток Алгоритмічного Мислення
+3. Математичні виклики Project Euler: Розвиток алгоритмічного мислення
 - https://github.com/dinara070/ProjectEuler-480-Mastery/blob/main/Matematichni-Vikliki-Project-Euler-Rozvitok-Algoritmichnogo-Mislennya.pdf
 
-4. Математичні Виклики та Реальні Рішення
+4. Математичні виклики та реальні рішення
 - https://github.com/dinara070/ProjectEuler-480-Mastery/blob/main/Matematichni-Vikliki-ta-Realni-Rishennya.pdf
    
 5. Математичні факти дня з Projecr Euler
