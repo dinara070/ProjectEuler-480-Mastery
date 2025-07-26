@@ -34,7 +34,7 @@
 5. Математичні факти дня з Projecr Euler
 - https://github.com/dinara070/ProjectEuler-480-Mastery/blob/main/Matematichni-fakti-dnya-z-Project-Euler.pdf
 
-6. Математика та Програмування: Подорож з Project Euler
+6. Математика та програмування: Подорож з Project Euler
 - https://github.com/dinara070/ProjectEuler-480-Mastery/blob/main/Matematika-ta-Programuvannya-Podorozh-z-Project-Euler.pdf
 
 7. Розв'язуємо Projecr Euler: Покроковий гайд
