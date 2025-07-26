@@ -17,7 +17,7 @@
 ✅ Наукова робота
 Проведено глибокий аналіз задачі №289, створено окремий сайт з візуалізацією.
 
-✅ 5 Презентацій (у форматі PDF):
+✅ 6 Презентацій (у форматі PDF):
 
 1. Цікаві відкриття з Project Euler
 - https://github.com/dinara070/ProjectEuler-480-Mastery/blob/main/Cikavi-Vidkrittya-z-Project-Euler.pdf
@@ -25,13 +25,16 @@
 2. Магія Реверс-Навчання
 - https://github.com/dinara070/ProjectEuler-480-Mastery/blob/main/Magiya-Revers-Navchannya-Rozshir-Svij-Svit-Znan.pdf
 
-3. Математичні Виклики та Реальні Рішення
+3. Математичні Виклики Project Euler: Розвиток Алгоритмічного Мислення
+- https://github.com/dinara070/ProjectEuler-480-Mastery/blob/main/Matematichni-Vikliki-Project-Euler-Rozvitok-Algoritmichnogo-Mislennya.pdf
+
+4. Математичні Виклики та Реальні Рішення
 - https://github.com/dinara070/ProjectEuler-480-Mastery/blob/main/Matematichni-Vikliki-ta-Realni-Rishennya.pdf
    
-4. Математичні факти дня з Projecr Euler
+5. Математичні факти дня з Projecr Euler
 - https://github.com/dinara070/ProjectEuler-480-Mastery/blob/main/Matematichni-fakti-dnya-z-Project-Euler.pdf
 
-5. Розв'язуємо Projecr Euler: Покроковий гайд
+6. Розв'язуємо Projecr Euler: Покроковий гайд
 - https://github.com/dinara070/ProjectEuler-480-Mastery/blob/main/Rozvyazuyemo-Project-Euler-Pokrokovij-Gajd.pdf
 
 ✅ Інтерактивна вікторина
