@@ -17,18 +17,21 @@
 ✅ Наукова робота
 Проведено глибокий аналіз задачі №289, створено окремий сайт з візуалізацією.
 
-✅ 4 Презентації (у форматі PDF):
+✅ 5 Презентацій (у форматі PDF):
 
 1. Цікаві відкриття з Project Euler
 - https://github.com/dinara070/ProjectEuler-480-Mastery/blob/main/Cikavi-Vidkrittya-z-Project-Euler.pdf
 
 2. Магія Реверс-Навчання
 - https://github.com/dinara070/ProjectEuler-480-Mastery/blob/main/Magiya-Revers-Navchannya-Rozshir-Svij-Svit-Znan.pdf
+
+3. Математичні Виклики та Реальні Рішення
+- https://github.com/dinara070/ProjectEuler-480-Mastery/blob/main/Matematichni-Vikliki-ta-Realni-Rishennya.pdf
    
-3. Математичні факти дня з Projecr Euler
+4. Математичні факти дня з Projecr Euler
 - https://github.com/dinara070/ProjectEuler-480-Mastery/blob/main/Matematichni-fakti-dnya-z-Project-Euler.pdf
 
-4. Розв'язуємо Projecr Euler: Покроковий гайд
+5. Розв'язуємо Projecr Euler: Покроковий гайд
 - https://github.com/dinara070/ProjectEuler-480-Mastery/blob/main/Rozvyazuyemo-Project-Euler-Pokrokovij-Gajd.pdf
 
 ✅ Інтерактивна вікторина
