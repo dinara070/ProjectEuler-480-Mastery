@@ -37,7 +37,7 @@
 6. Математика та Програмування: Подорож з Project Euler
 - https://github.com/dinara070/ProjectEuler-480-Mastery/blob/main/Matematika-ta-Programuvannya-Podorozh-z-Project-Euler.pdf
 
-8. Розв'язуємо Projecr Euler: Покроковий гайд
+7. Розв'язуємо Projecr Euler: Покроковий гайд
 - https://github.com/dinara070/ProjectEuler-480-Mastery/blob/main/Rozvyazuyemo-Project-Euler-Pokrokovij-Gajd.pdf
 
 ✅ Інтерактивна вікторина
