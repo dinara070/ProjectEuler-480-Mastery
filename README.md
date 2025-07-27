@@ -22,7 +22,7 @@
 1. Цікаві відкриття з Project Euler
 - https://github.com/dinara070/ProjectEuler-480-Mastery/blob/main/Cikavi-Vidkrittya-z-Project-Euler.pdf
 
-2. Фізмат Edition: Пояснення та Задачі для Школярів
+2. Фізмат Edition: Пояснення та задачі для школярів
 - https://github.com/dinara070/ProjectEuler-480-Mastery/blob/main/Fizmat-Edition-Poyasnennya-ta-Zadachi-dlya-Shkolyariv.pdf
 
 3. Магія Реверс-Навчання
@@ -40,7 +40,7 @@
 7. Математика та програмування: Подорож з Project Euler
 - https://github.com/dinara070/ProjectEuler-480-Mastery/blob/main/Matematika-ta-Programuvannya-Podorozh-z-Project-Euler.pdf
 
-8. Project Euler: Мій Особистий Фізмат-Університет
+8. Project Euler: Мій особистий Фізмат-Університет
 - https://github.com/dinara070/ProjectEuler-480-Mastery/blob/main/Project-Euler-Mij-Osobistij-Fizmat-Universitet.pdf
 
 9. Project Euler: Як він прокачує мозок?
