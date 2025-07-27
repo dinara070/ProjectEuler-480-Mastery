@@ -17,27 +17,30 @@
 ✅ Наукова робота
 Проведено глибокий аналіз задачі №289, створено окремий сайт з візуалізацією.
 
-✅ 7 Презентацій (у форматі PDF):
+✅ 8 Презентацій (у форматі PDF):
 
 1. Цікаві відкриття з Project Euler
 - https://github.com/dinara070/ProjectEuler-480-Mastery/blob/main/Cikavi-Vidkrittya-z-Project-Euler.pdf
 
-2. Магія Реверс-Навчання
+2. Фізмат Edition: Пояснення та Задачі для Школярів
+- https://github.com/dinara070/ProjectEuler-480-Mastery/blob/main/Fizmat-Edition-Poyasnennya-ta-Zadachi-dlya-Shkolyariv.pdf
+
+3. Магія Реверс-Навчання
 - https://github.com/dinara070/ProjectEuler-480-Mastery/blob/main/Magiya-Revers-Navchannya-Rozshir-Svij-Svit-Znan.pdf
 
-3. Математичні виклики Project Euler: Розвиток алгоритмічного мислення
+4. Математичні виклики Project Euler: Розвиток алгоритмічного мислення
 - https://github.com/dinara070/ProjectEuler-480-Mastery/blob/main/Matematichni-Vikliki-Project-Euler-Rozvitok-Algoritmichnogo-Mislennya.pdf
 
-4. Математичні виклики та реальні рішення
+5. Математичні виклики та реальні рішення
 - https://github.com/dinara070/ProjectEuler-480-Mastery/blob/main/Matematichni-Vikliki-ta-Realni-Rishennya.pdf
    
-5. Математичні факти дня з Projecr Euler
+6. Математичні факти дня з Projecr Euler
 - https://github.com/dinara070/ProjectEuler-480-Mastery/blob/main/Matematichni-fakti-dnya-z-Project-Euler.pdf
 
-6. Математика та програмування: Подорож з Project Euler
+7. Математика та програмування: Подорож з Project Euler
 - https://github.com/dinara070/ProjectEuler-480-Mastery/blob/main/Matematika-ta-Programuvannya-Podorozh-z-Project-Euler.pdf
 
-7. Розв'язуємо Projecr Euler: Покроковий гайд
+8. Розв'язуємо Projecr Euler: Покроковий гайд
 - https://github.com/dinara070/ProjectEuler-480-Mastery/blob/main/Rozvyazuyemo-Project-Euler-Pokrokovij-Gajd.pdf
 
 ✅ Інтерактивна вікторина
