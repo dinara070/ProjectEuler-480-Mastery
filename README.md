@@ -46,11 +46,12 @@
 9. Project Euler: Як він прокачує мозок?
 - https://github.com/dinara070/ProjectEuler-480-Mastery/blob/main/Project-Euler-Yak-vin-prokachuye-mozok.pdf
 
-10. Розв'язуємо Projecr Euler: Покроковий гайд
+10. Проект Ейлера: Для кожного
+- https://github.com/dinara070/ProjectEuler-480-Mastery/blob/main/Proyekt-Ejlera-Dlya-Kozhnogo.pdf
+  
+12. Розв'язуємо Projecr Euler: Покроковий гайд
 - https://github.com/dinara070/ProjectEuler-480-Mastery/blob/main/Rozvyazuyemo-Project-Euler-Pokrokovij-Gajd.pdf
 
-11. Для кого цей репозиторій
-- 
 
 ✅ Інтерактивна вікторина
 Створено тестування для перевірки знань про задачі ФЕ.
