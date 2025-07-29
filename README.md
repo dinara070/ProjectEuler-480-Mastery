@@ -17,7 +17,7 @@
 ✅ Наукова робота
 Проведено глибокий аналіз задачі №289, створено окремий сайт з візуалізацією.
 
-✅ 11 Презентацій (у форматі PDF):
+✅ 12 Презентацій (у форматі PDF):
 
 1. Цікаві відкриття з Project Euler
 - https://github.com/dinara070/ProjectEuler-480-Mastery/blob/main/Cikavi-Vidkrittya-z-Project-Euler.pdf
@@ -40,13 +40,16 @@
 7. Математика та програмування: Подорож з Project Euler
 - https://github.com/dinara070/ProjectEuler-480-Mastery/blob/main/Matematika-ta-Programuvannya-Podorozh-z-Project-Euler.pdf
 
-8. Project Euler: Мій особистий Фізмат-Університет
+8. Projecr Euler Mastery: Навчання через виклик
+- https://github.com/dinara070/ProjectEuler-480-Mastery/blob/main/Project-Euler-Mastery-Navchannya-cherez-Viklik%20(1).pdf
+
+9. Project Euler: Мій особистий Фізмат-Університет
 - https://github.com/dinara070/ProjectEuler-480-Mastery/blob/main/Project-Euler-Mij-Osobistij-Fizmat-Universitet.pdf
 
-9. Project Euler: Як він прокачує мозок?
+10. Project Euler: Як він прокачує мозок?
 - https://github.com/dinara070/ProjectEuler-480-Mastery/blob/main/Project-Euler-Yak-vin-prokachuye-mozok.pdf
 
-10. Проект Ейлера: Для кожного
+11. Проект Ейлера: Для кожного
 - https://github.com/dinara070/ProjectEuler-480-Mastery/blob/main/Proyekt-Ejlera-Dlya-Kozhnogo.pdf
   
 12. Розв'язуємо Projecr Euler: Покроковий гайд
