@@ -172,7 +172,7 @@ Project Euler — це легендарна платформа для тих, х
 ### Ось кілька ключових ноутбуків:
 - Рішення задач [#1–100](https://colab.research.google.com/drive/1isWILLxYoKgQxn12CkKa3XtxxzEgYQVj?usp=sharing)
 - Рішення задач [#101–200](https://colab.research.google.com/drive/1of20Nn8Fpqk3GPIFGLrBGQIJZNskYV2y?usp=sharing)
-- Інші ноутбуки у папці Colab
+- Інші ноутбуки у папці Colab: [#201-300](https://colab.research.google.com/drive/1vuJ7doKn4A7_pn15Kqf_hP-yrKrV-2ag?usp=sharing), [301-400](https://colab.research.google.com/drive/1bDcy4_-uzOuTd8Yx7aPv2tq3RBAjbqgu?usp=sharing), [401-500](https://colab.research.google.com/drive/1njpzxg4KlSUkPNEVAxIjY_3q4FAEt4Nu?usp=sharing), [501-600](https://colab.research.google.com/drive/1B1t2SF-fPWD1JFmLIfg_WRH0yhjAr21p?usp=sharing), [601-700](https://colab.research.google.com/drive/1D3W5sOkzmtZ0gqiDpB_shJ4CEdpt8--W?usp=sharing), [701-800](https://colab.research.google.com/drive/1YNQkuheX0jDrpBaWCmSiz60GzhpIC-al?usp=sharing), [801-900](https://colab.research.google.com/drive/1Uv74N74bOejgo-cpa5cz87UWPeh30mAf?usp=sharing), [901-1000](https://colab.research.google.com/drive/1h0TSlUAzE2p2ZTyEvVFq4urD4b9662Er?usp=sharing)
 
 ### Запуск коду:
 - Відкрийте обраний ноутбук у [Colab](https://colab.research.google.com/).
