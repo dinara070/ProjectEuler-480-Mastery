@@ -17,7 +17,7 @@
 ✅ Наукова робота
 Проведено глибокий аналіз задачі №289, створено окремий сайт з візуалізацією.
 
-✅ 10 Презентацій (у форматі PDF):
+✅ 11 Презентацій (у форматі PDF):
 
 1. Цікаві відкриття з Project Euler
 - https://github.com/dinara070/ProjectEuler-480-Mastery/blob/main/Cikavi-Vidkrittya-z-Project-Euler.pdf
@@ -48,6 +48,9 @@
 
 10. Розв'язуємо Projecr Euler: Покроковий гайд
 - https://github.com/dinara070/ProjectEuler-480-Mastery/blob/main/Rozvyazuyemo-Project-Euler-Pokrokovij-Gajd.pdf
+
+11. Для кого цей репозиторій
+- 
 
 ✅ Інтерактивна вікторина
 Створено тестування для перевірки знань про задачі ФЕ.
