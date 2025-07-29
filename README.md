@@ -170,12 +170,12 @@ Project Euler — це легендарна платформа для тих, х
 - Для зручного запуску та редагування рекомендовано використовувати Google Colab.
 
 ### Ось кілька ключових ноутбуків:
-- Рішення задач #1–100 (https://colab.research.google.com/drive/1isWILLxYoKgQxn12CkKa3XtxxzEgYQVj?usp=sharing)
-- Рішення задач #101–200 (https://colab.research.google.com/drive/1of20Nn8Fpqk3GPIFGLrBGQIJZNskYV2y?usp=sharing)
+- Рішення задач [#1–100](https://colab.research.google.com/drive/1isWILLxYoKgQxn12CkKa3XtxxzEgYQVj?usp=sharing)
+- Рішення задач [#101–200](https://colab.research.google.com/drive/1of20Nn8Fpqk3GPIFGLrBGQIJZNskYV2y?usp=sharing)
 - Інші ноутбуки у папці Colab
 
 ### Запуск коду:
-- Відкрийте обраний ноутбук у Colab (https://colab.research.google.com/).
+- Відкрийте обраний ноутбук у [Colab](https://colab.research.google.com/).
 - Запускайте коди блоками по черзі, натискаючи кнопку ▶️ поруч із кожним блоком.
 - Ознайомтеся з коментарями та поясненнями в коді.
 
@@ -183,7 +183,7 @@ Project Euler — це легендарна платформа для тих, х
 - Презентації можна знайти у папці PDF.
 - Для глибшого розуміння рекомендовано ознайомитися з науковою роботою та інформаційним сайтом по задачі №289: (https://rozv-yazannia-zadachi-28-zyg9pup.gamma.site/).
 - Перевірте свої знання
-- Спробуйте пройти інтерактивну вікторину: онлайн-тест (https://wordwall.net/uk/resource/95164791).
+- Спробуйте пройти інтерактивну вікторину: [онлайн-тест](https://wordwall.net/uk/resource/95164791).
 - Власні експерименти
 - Копіюйте код у свій Google Colab або локальний редактор.
 - Модифікуйте рішення, додавайте свої коментарі, покращуйте алгоритми.
