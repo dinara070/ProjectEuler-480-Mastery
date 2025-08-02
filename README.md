@@ -127,8 +127,8 @@ Project Euler — це легендарна платформа для тих, х
 - https://github.com/dinara070/ProjectEuler-480-Mastery/blob/main/Rozvyazuyemo-Project-Euler-Pokrokovij-Gajd.pdf
 
 
-✅ Інтерактивна вікторина
-[Створено тестування для перевірки знань про задачі ФЕ](https://wordwall.net/uk/resource/95164791).
+✅ [Інтерактивна вікторина
+Створено тестування для перевірки знань про задачі ФЕ](https://wordwall.net/uk/resource/95164791).
 
 ---
 
