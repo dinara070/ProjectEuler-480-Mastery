@@ -126,9 +126,9 @@ Project Euler — це легендарна платформа для тих, х
 12. Розв'язуємо Projecr Euler: Покроковий гайд
 - https://github.com/dinara070/ProjectEuler-480-Mastery/blob/main/Rozvyazuyemo-Project-Euler-Pokrokovij-Gajd.pdf
 
-✅ 🎮Інтерактивні вправи та ігри:
-[🧠 Онлайн-вікторина про Project Euler](https://wordwall.net/uk/resource/95164791)
-[Колесо фортуни](https://wordwall.net/uk/resource/95475554)
+#### ✅ 🎮Інтерактивні вправи та ігри:
+- [🧠 Онлайн-вікторина про Project Euler](https://wordwall.net/uk/resource/95164791)
+- [Колесо фортуни](https://wordwall.net/uk/resource/95475554)
 
 ---
 
