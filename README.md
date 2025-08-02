@@ -240,7 +240,7 @@ reddit.com
 - [Academia.StackExchange: “Do mathematics researchers regularly solve problems like those from Project Euler?”](https://academia.stackexchange.com/questions/27659/do-mathematics-researchers-regularly-solve-problems-like-the-ones-from-project-e?utm_source=chatgpt.com) — показує академічний погляд на те, як PE-тип задач вирішуються дослідниками ТКС і математики.
 
 ### Додатково
-- [Послідовність Дресса](https://oeis.org/A001316)
+- [OEIS](https://oeis.org/A001316)
 
 ---
 
