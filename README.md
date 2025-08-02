@@ -239,6 +239,9 @@ reddit.com
 - [Архів Stack Overflow](https://stackoverflow.com/questions/4967890/project-euler-problems-which-are-not-so-math-oriented?utm_source=chatgpt.com)/[Hacker News дискусій](https://news.ycombinator.com/item?id=29211532&utm_source=chatgpt.com) — обговорюється, що багато задач Project Euler (особливо з номерів 101+) вимагають знань в області алгебри, динамічного програмування, теорії графів тощо; містять конкретні приклади №107, 114, 183 тощо. 
 - [Academia.StackExchange: “Do mathematics researchers regularly solve problems like those from Project Euler?”](https://academia.stackexchange.com/questions/27659/do-mathematics-researchers-regularly-solve-problems-like-the-ones-from-project-e?utm_source=chatgpt.com) — показує академічний погляд на те, як PE-тип задач вирішуються дослідниками ТКС і математики.
 
+### Додатково
+- [Послідовність Дресса](https://oeis.org/A001316)
+
 ---
 
 ## 📜 Ліцензія
