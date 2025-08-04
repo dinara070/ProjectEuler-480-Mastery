@@ -89,7 +89,16 @@ Project Euler — це онлайн-ініціатива, що містить к
 ✅ Наукова робота
 Проведено глибокий аналіз задачі №289, створено окремий сайт з візуалізацією.
 
-✅ 12 Презентацій (у форматі PDF):
+#### ✅ 🎮Інтерактивні вправи та ігри:
+- [Онлайн-вікторина про Project Euler](https://wordwall.net/uk/resource/95164791)
+- [Колесо фортуни](https://wordwall.net/uk/resource/95475554)
+- [Флеш-картки](https://wordwall.net/uk/resource/95475769)
+
+## 🌐 Інформаційний сайт по задачі №289
+- https://rozv-yazannia-zadachi-28-zyg9pup.gamma.site/  
+  *(на основі наукової роботи)*  
+
+#### ✅ 12 Презентацій (у форматі PDF):
 
 1. Цікаві відкриття з Project Euler
 - https://github.com/dinara070/ProjectEuler-480-Mastery/blob/main/Cikavi-Vidkrittya-z-Project-Euler.pdf
@@ -127,11 +136,6 @@ Project Euler — це онлайн-ініціатива, що містить к
 12. Розв'язуємо Projecr Euler: Покроковий гайд
 - https://github.com/dinara070/ProjectEuler-480-Mastery/blob/main/Rozvyazuyemo-Project-Euler-Pokrokovij-Gajd.pdf
 
-#### ✅ 🎮Інтерактивні вправи та ігри:
-- [Онлайн-вікторина про Project Euler](https://wordwall.net/uk/resource/95164791)
-- [Колесо фортуни](https://wordwall.net/uk/resource/95475554)
-- [Флеш-картки](https://wordwall.net/uk/resource/95475769)
-
 ---
 
 ## 🔗 Швидкі посилання
@@ -148,9 +152,6 @@ Project Euler — це онлайн-ініціатива, що містить к
 - https://colab.research.google.com/drive/1Uv74N74bOejgo-cpa5cz87UWPeh30mAf?usp=sharing
 - https://colab.research.google.com/drive/1Uv74N74bOejgo-cpa5cz87UWPeh30mAf?usp=sharing
 - https://colab.research.google.com/drive/1h0TSlUAzE2p2ZTyEvVFq4urD4b9662Er?usp=sharing
-## 🌐 Інформаційний сайт по задачі №289
-- https://rozv-yazannia-zadachi-28-zyg9pup.gamma.site/  
-  *(на основі наукової роботи)*  
 
 ---
 
