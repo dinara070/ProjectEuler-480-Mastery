@@ -29,9 +29,6 @@
 ## 📘 Project Euler — Розв'язки задач
 
 У цьому репозиторії представлені **мої власні розв'язки перших 100 задач** з [Project Euler](https://projecteuler.net/).
-
----
-
 ### 📚 Google Colab — коди задач 1–100
 - [Рішення задач №1–100](https://colab.research.google.com/drive/1isWILLxYoKgQxn12CkKa3XtxxzEgYQVj?usp=sharing)
 
@@ -44,9 +41,8 @@
 
 Проєкт є частиною навчальної та наукової роботи, спрямованої на розвиток **алгоритмічного мислення** та **практичних навичок програмування**.
 
----
-
-### ⚠️ **Примітка:** Рішення публікуються виключно з навчальною метою. Рекомендую спочатку спробувати розв’язати задачі самостійно.
+### ⚠️ Примітка: 
+Рішення публікуються виключно з навчальною метою. Рекомендую спочатку спробувати розв’язати задачі самостійно.
 
 ---
 
@@ -182,7 +178,10 @@
 
 ## 🌐 Інформаційний сайт по задачі №289
 - https://rozv-yazannia-zadachi-28-zyg9pup.gamma.site/  
-  *(на основі наукової роботи)*  
+  *(на основі наукової роботи)*
+
+## Рішення задач 
+- [#1–100](https://colab.research.google.com/drive/1isWILLxYoKgQxn12CkKa3XtxxzEgYQVj?usp=sharing)
 
 #### ✅ 12 Презентацій (у форматі PDF):
 
@@ -237,31 +236,7 @@
 | [**44**](https://projecteuler.net/problem=44)   | 💠 **Пентагональні числа**                           | Незвичайна властивість чисел — задача виглядає просто, але рішення потребує хитрої інверсії формули.                                                                                                                 |
 | [**87**](https://projecteuler.net/problem=87)   | 🧪 **Потужні прості суми**                           | Задача поєднує піднесення простих чисел до степенів 2, 3, 4 — створює цікаву динаміку комбінацій.                                                                                                                    |
 | [**179**](https://projecteuler.net/problem=179)  | 🧩 **Сусідні числа з однаковою кількістю дільників** | Досить рідкісна властивість, яку цікаво дослідити. Спонукає подумати над функцією `num_divisors` і її оптимізацією.                                                                                                  |
-| [**206**](https://projecteuler.net/problem=206)  | 🎯 **Приховане число з маскою**                      | Гра з цифрами — знайти число певного вигляду. Потребує розумного пошуку і відсіювання. Дуже “олімпіадна” по стилю.                                                                                                   |
-
----
-
-## 🔗 Швидкі посилання
-
-## 📘 Google Colab: Коди розв'язків задач
-- https://colab.research.google.com/drive/1isWILLxYoKgQxn12CkKa3XtxxzEgYQVj?usp=sharing
-- https://colab.research.google.com/drive/1of20Nn8Fpqk3GPIFGLrBGQIJZNskYV2y?usp=sharing
-- https://colab.research.google.com/drive/1vuJ7doKn4A7_pn15Kqf_hP-yrKrV-2ag?usp=sharing
-- https://colab.research.google.com/drive/1bDcy4_-uzOuTd8Yx7aPv2tq3RBAjbqgu?usp=sharing
-- https://colab.research.google.com/drive/1njpzxg4KlSUkPNEVAxIjY_3q4FAEt4Nu?usp=sharing
-- https://colab.research.google.com/drive/1B1t2SF-fPWD1JFmLIfg_WRH0yhjAr21p?usp=sharing
-- https://colab.research.google.com/drive/1D3W5sOkzmtZ0gqiDpB_shJ4CEdpt8--W?usp=sharing
-- https://colab.research.google.com/drive/1YNQkuheX0jDrpBaWCmSiz60GzhpIC-al?usp=sharing
-- https://colab.research.google.com/drive/1Uv74N74bOejgo-cpa5cz87UWPeh30mAf?usp=sharing
-- https://colab.research.google.com/drive/1Uv74N74bOejgo-cpa5cz87UWPeh30mAf?usp=sharing
-- https://colab.research.google.com/drive/1h0TSlUAzE2p2ZTyEvVFq4urD4b9662Er?usp=sharing
-
----
-
-### 📚 Ось кілька ключових ноутбуків:
-- Рішення задач [#1–100](https://colab.research.google.com/drive/1isWILLxYoKgQxn12CkKa3XtxxzEgYQVj?usp=sharing)
-- Рішення задач [#101–200](https://colab.research.google.com/drive/1of20Nn8Fpqk3GPIFGLrBGQIJZNskYV2y?usp=sharing)
-- Інші ноутбуки у папці Colab: [#201-300](https://colab.research.google.com/drive/1vuJ7doKn4A7_pn15Kqf_hP-yrKrV-2ag?usp=sharing), [301-400](https://colab.research.google.com/drive/1bDcy4_-uzOuTd8Yx7aPv2tq3RBAjbqgu?usp=sharing), [401-500](https://colab.research.google.com/drive/1njpzxg4KlSUkPNEVAxIjY_3q4FAEt4Nu?usp=sharing), [501-600](https://colab.research.google.com/drive/1B1t2SF-fPWD1JFmLIfg_WRH0yhjAr21p?usp=sharing), [601-700](https://colab.research.google.com/drive/1D3W5sOkzmtZ0gqiDpB_shJ4CEdpt8--W?usp=sharing), [701-800](https://colab.research.google.com/drive/1YNQkuheX0jDrpBaWCmSiz60GzhpIC-al?usp=sharing), [801-900](https://colab.research.google.com/drive/1Uv74N74bOejgo-cpa5cz87UWPeh30mAf?usp=sharing), [901-1000](https://colab.research.google.com/drive/1h0TSlUAzE2p2ZTyEvVFq4urD4b9662Er?usp=sharing)
+| [**206**](https://projecteuler.net/problem=206)  | 🎯 **Приховане число з маскою**                      | Гра з цифрами — знайти число певного вигляду. Потребує розумного пошуку і відсіювання. Дуже “олімпіадна” по стилю.                                                                                                   
 
 ---
 
